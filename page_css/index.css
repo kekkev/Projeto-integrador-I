@@ -1,0 +1,25 @@
+h1{color:black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+p{color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #eee;
+    height: 96vh;
+    width: 98vw;
+}
+main{
+    justify-content: center;
+    display: flex;
+}
+ol{
+    font-family: 'Courier New', Courier, monospace;
+}
